@@ -32,8 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0068-text-justification) |
+| [0087-scramble-string](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0087-scramble-string) |
 ## Simulation
 |  |
 | ------- |
 | [0068-text-justification](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0068-text-justification) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0087-scramble-string](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0087-scramble-string) |
 <!---LeetCode Topics End-->

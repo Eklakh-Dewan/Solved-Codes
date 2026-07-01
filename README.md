@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0149-max-points-on-a-line](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0149-max-points-on-a-line) |
+| [0739-daily-temperatures](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0739-daily-temperatures) |
 ## Hash Table
 |  |
 | ------- |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [0739-daily-temperatures](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0739-daily-temperatures) |
 ## Tree
 |  |
 | ------- |
@@ -67,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0094-binary-tree-inorder-traversal) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0739-daily-temperatures](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0739-daily-temperatures) |
 <!---LeetCode Topics End-->

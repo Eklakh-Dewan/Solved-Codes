@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0149-max-points-on-a-line](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0149-max-points-on-a-line) |
 | [0739-daily-temperatures](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0739-daily-temperatures) |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -73,4 +74,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0739-daily-temperatures) |
+## Binary Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Union-Find
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
+## Matrix
+|  |
+| ------- |
+| [2812-find-the-safest-path-in-a-grid](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
 <!---LeetCode Topics End-->

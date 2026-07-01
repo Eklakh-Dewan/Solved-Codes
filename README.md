@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0001-two-sum) |
 | [0068-text-justification](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0068-text-justification) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0149-max-points-on-a-line](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0149-max-points-on-a-line) |
@@ -24,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0001-two-sum) |
 | [0149-max-points-on-a-line](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0149-max-points-on-a-line) |
 ## Math
 |  |

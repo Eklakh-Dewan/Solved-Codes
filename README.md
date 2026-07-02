@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0739-daily-temperatures) |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3286-find-a-safe-walk-through-a-grid) |
+| [3637-trionic-array-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3637-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |

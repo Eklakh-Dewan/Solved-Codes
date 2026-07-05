@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3286-find-a-safe-walk-through-a-grid](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3286-find-a-safe-walk-through-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3620-network-recovery-pathways) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3638-maximum-balanced-shipments) |
 ## Hash Table
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2812-find-the-safest-path-in-a-grid](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/2812-find-the-safest-path-in-a-grid) |
 | [3620-network-recovery-pathways](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3620-network-recovery-pathways) |
+| [3634-minimum-removals-to-balance-array](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3634-minimum-removals-to-balance-array) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -136,4 +138,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3620-network-recovery-pathways](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3620-network-recovery-pathways) |
+## Sliding Window
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3634-minimum-removals-to-balance-array) |
+## Sorting
+|  |
+| ------- |
+| [3634-minimum-removals-to-balance-array](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3634-minimum-removals-to-balance-array) |
 <!---LeetCode Topics End-->

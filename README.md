@@ -83,15 +83,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1382-balance-a-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1382-balance-a-binary-search-tree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 ## Binary Tree
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0094-binary-tree-inorder-traversal) |
+| [1382-balance-a-binary-search-tree](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1382-balance-a-binary-search-tree) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1382-balance-a-binary-search-tree) |
 | [3638-maximum-balanced-shipments](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3638-maximum-balanced-shipments) |
 ## Topological Sort
 |  |
@@ -155,4 +159,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0147-insertion-sort-list](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0147-insertion-sort-list) |
 | [1288-remove-covered-intervals](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1288-remove-covered-intervals) |
 | [3634-minimum-removals-to-balance-array](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3634-minimum-removals-to-balance-array) |
+## Divide and Conquer
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1382-balance-a-binary-search-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1382-balance-a-binary-search-tree](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1382-balance-a-binary-search-tree) |
 <!---LeetCode Topics End-->

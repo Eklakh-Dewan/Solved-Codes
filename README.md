@@ -32,11 +32,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3634-minimum-removals-to-balance-array](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3634-minimum-removals-to-balance-array) |
 | [3637-trionic-array-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3637-trionic-array-i) |
 | [3638-maximum-balanced-shipments](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3638-maximum-balanced-shipments) |
+| [3719-longest-balanced-subarray-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3719-longest-balanced-subarray-i) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0001-two-sum) |
 | [0149-max-points-on-a-line](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0149-max-points-on-a-line) |
+| [3719-longest-balanced-subarray-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
 | ------- |
@@ -163,8 +165,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1382-balance-a-binary-search-tree) |
+| [3719-longest-balanced-subarray-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [1382-balance-a-binary-search-tree](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1382-balance-a-binary-search-tree) |
+## Segment Tree
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3719-longest-balanced-subarray-i) |
+## Prefix Sum
+|  |
+| ------- |
+| [3719-longest-balanced-subarray-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3719-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->

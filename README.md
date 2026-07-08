@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0001-two-sum) |
 | [0149-max-points-on-a-line](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0149-max-points-on-a-line) |
+| [3713-longest-balanced-substring-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3713-longest-balanced-substring-i) |
 | [3719-longest-balanced-subarray-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3719-longest-balanced-subarray-i) |
 ## Math
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0093-restore-ip-addresses) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3713-longest-balanced-substring-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3713-longest-balanced-substring-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
 |  |
@@ -181,4 +183,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [3719-longest-balanced-subarray-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3719-longest-balanced-subarray-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
+## Counting
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3713-longest-balanced-substring-i) |
+## Enumeration
+|  |
+| ------- |
+| [3713-longest-balanced-substring-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3713-longest-balanced-substring-i) |
 <!---LeetCode Topics End-->

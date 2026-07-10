@@ -74,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0120-triangle) |
+| [0799-champagne-tower](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0799-champagne-tower) |
 | [1301-number-of-paths-with-max-score](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1301-number-of-paths-with-max-score) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |

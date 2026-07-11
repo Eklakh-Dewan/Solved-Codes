@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0149-max-points-on-a-line) |
 | [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0068-text-justification) |
 | [0087-scramble-string](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0091-decode-ways) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0067-add-binary) |
 | [0068-text-justification](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0068-text-justification) |
 ## Dynamic Programming
 |  |
@@ -211,5 +214,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0067-add-binary) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->

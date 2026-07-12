@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0093-restore-ip-addresses](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0093-restore-ip-addresses) |
+| [0401-binary-watch](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0401-binary-watch) |
 ## Stack
 |  |
 | ------- |
@@ -220,5 +221,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0401-binary-watch) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 <!---LeetCode Topics End-->

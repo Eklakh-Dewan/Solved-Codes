@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0061-rotate-list](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0061-rotate-list) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0696-count-binary-substrings](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0696-count-binary-substrings) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Array
 |  |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0087-scramble-string](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0087-scramble-string) |
 | [0091-decode-ways](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0093-restore-ip-addresses) |
+| [0696-count-binary-substrings](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0696-count-binary-substrings) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3713-longest-balanced-substring-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |

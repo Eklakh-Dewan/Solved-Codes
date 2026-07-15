@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0091-decode-ways) |
 | [0093-restore-ip-addresses](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0093-restore-ip-addresses) |
 | [0696-count-binary-substrings](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0696-count-binary-substrings) |
+| [0761-special-binary-string](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0761-special-binary-string) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3713-longest-balanced-substring-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0147-insertion-sort-list) |
+| [0761-special-binary-string](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1331-rank-transform-of-an-array) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0190-reverse-bits](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0190-reverse-bits) |
+| [0761-special-binary-string](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0761-special-binary-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1382-balance-a-binary-search-tree) |
 | [3719-longest-balanced-subarray-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3719-longest-balanced-subarray-i) |
 ## Binary Search Tree

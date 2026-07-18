@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0401-binary-watch) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0868-binary-gap](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0868-binary-gap) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Number Theory
 |  |

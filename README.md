@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0093-restore-ip-addresses](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0093-restore-ip-addresses) |
 | [0696-count-binary-substrings](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0696-count-binary-substrings) |
 | [0761-special-binary-string](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0761-special-binary-string) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3713-longest-balanced-substring-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3713-longest-balanced-substring-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0094-binary-tree-inorder-traversal) |
 | [0739-daily-temperatures](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3638-maximum-balanced-shipments](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3638-maximum-balanced-shipments) |
 ## Tree
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0739-daily-temperatures](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0739-daily-temperatures) |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3638-maximum-balanced-shipments](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3638-maximum-balanced-shipments) |
 ## Binary Search
 |  |
@@ -184,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [1081-smallest-subsequence-of-distinct-characters](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1382-balance-a-binary-search-tree](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1382-balance-a-binary-search-tree) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3638-maximum-balanced-shipments](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3638-maximum-balanced-shipments) |

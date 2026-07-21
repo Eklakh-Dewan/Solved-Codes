@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1653-minimum-deletions-to-make-string-balanced) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3713-longest-balanced-substring-i) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Simulation
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1291-sequential-digits](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1291-sequential-digits) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3713-longest-balanced-substring-i](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3713-longest-balanced-substring-i) |
 ## Bit Manipulation
 |  |

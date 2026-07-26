@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0120-triangle](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0120-triangle) |
 | [0149-max-points-on-a-line](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0149-max-points-on-a-line) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0739-daily-temperatures) |
 | [1260-shift-2d-grid](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1288-remove-covered-intervals) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0067-add-binary](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0067-add-binary) |
 | [0149-max-points-on-a-line](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0149-max-points-on-a-line) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3312-sorted-gcd-pair-queries) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0147-insertion-sort-list](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0147-insertion-sort-list) |
+| [0628-maximum-product-of-three-numbers](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0761-special-binary-string](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0761-special-binary-string) |
 | [1288-remove-covered-intervals](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1331-rank-transform-of-an-array) |

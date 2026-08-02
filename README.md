@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0149-max-points-on-a-line) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0739-daily-temperatures](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0739-daily-temperatures) |
+| [0877-stone-game](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0877-stone-game) |
 | [1260-shift-2d-grid](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1260-shift-2d-grid) |
 | [1288-remove-covered-intervals](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1301-number-of-paths-with-max-score) |
@@ -63,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0149-max-points-on-a-line](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0149-max-points-on-a-line) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0628-maximum-product-of-three-numbers) |
 | [0762-prime-number-of-set-bits-in-binary-representation](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0762-prime-number-of-set-bits-in-binary-representation) |
+| [0877-stone-game](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0877-stone-game) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0091-decode-ways](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0091-decode-ways) |
 | [0120-triangle](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0120-triangle) |
 | [0799-champagne-tower](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0799-champagne-tower) |
+| [0877-stone-game](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0877-stone-game) |
 | [1301-number-of-paths-with-max-score](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1301-number-of-paths-with-max-score) |
 | [1653-minimum-deletions-to-make-string-balanced](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1653-minimum-deletions-to-make-string-balanced) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -286,4 +289,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1461-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/1461-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Game Theory
+|  |
+| ------- |
+| [0877-stone-game](https://github.com/Eklakh-Dewan/Solved-Codes/tree/master/0877-stone-game) |
 <!---LeetCode Topics End-->
